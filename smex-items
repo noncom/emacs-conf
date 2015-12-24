@@ -1,0 +1,42 @@
+
+;; ----- smex-history -----
+(
+ auto-complete
+ disable-theme
+ enable-theme
+ global-linum-mode
+ eshell
+ set-mark-command
+ version
+)
+
+;; ----- smex-data -----
+(
+ (load-theme . 7)
+ (find-user-init-file . 5)
+ (eval-expression . 1)
+ (eval-current-buffer . 1)
+ (eval-buffer . 6)
+ (package-install . 3)
+ (list-packages . 2)
+ (auto-complete . 7)
+ (recenter . 1)
+ (recentf-edit-list . 1)
+ (recentf-open-files . 4)
+ (completion-list-mode . 4)
+ (shell . 11)
+ (diredp-breadcrumbs-in-header-line-mode . 1)
+ (erase-buffer . 5)
+ (set-mark-command . 26)
+ (eshell . 45)
+ (linum-mode . 13)
+ (customize-themes . 2)
+ (ansi-term . 1)
+ (global-linum-mode . 17)
+ (ace-window . 8)
+ (lisp-mode . 3)
+ (paredit-mode . 1)
+ (version . 2)
+ (disable-theme . 2)
+ (enable-theme . 1)
+)
